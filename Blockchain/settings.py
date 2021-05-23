@@ -87,6 +87,8 @@ USE_L10N = True
 
 USE_TZ = True
 
+STATIC_ROOT = "app-root/repo/wsgi/static"
+
 STATIC_URL = '/static/'
 
 STATICFILES_DIRS = [
