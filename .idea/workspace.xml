@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59eb24f2-93d0-4d16-ae17-835fd87f7526" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/jovi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/mercury.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/suicidal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blockchain_copy/.idea/Blockchain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/../.env.dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Blockchain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Blockchain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blockchain/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blockchain/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blockchain/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blockchain/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blockchain/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blockchain/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blockchain/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blockchain/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ballot/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ballot/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/user.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vote.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/migrations/0002_auto_20200119_1015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/migrations/0003_user_user_public_key.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_registration/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_registration/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../key_pair/keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/../key_pair/keys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../key_pair/verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/../key_pair/verification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../key_pair/vote.html" beforeDir="false" afterPath="$PROJECT_DIR$/../key_pair/vote.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XC5EKWRRqtehq4daYGctgL1pzl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/ballot" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/user_registration" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ballot" />
+      <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Blockchain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59eb24f2-93d0-4d16-ae17-835fd87f7526" name="Default" comment="" />
+      <created>1579413430936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579413430936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591447140586">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1591447140586" />
+    <state x="258" y="182" width="868" height="504" key="#xdebugger.evaluate" timestamp="1592722579233">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="258" y="182" width="868" height="504" key="#xdebugger.evaluate/67.27.1299.741@67.27.1299.741" timestamp="1592722579233" />
+    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592679949992">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1592679949992" />
+    <state width="1299" height="213" key="GridCell.Tab.0.bottom" timestamp="1592722884814">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1592722884814" />
+    <state width="1299" height="213" key="GridCell.Tab.0.center" timestamp="1592722884813">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1592722884813" />
+    <state width="1299" height="213" key="GridCell.Tab.0.left" timestamp="1592722884812">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1592722884812" />
+    <state width="1299" height="213" key="GridCell.Tab.0.right" timestamp="1592722884813">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1592722884813" />
+    <state width="1299" height="213" key="GridCell.Tab.1.bottom" timestamp="1592722884815">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1592722884815" />
+    <state width="1299" height="213" key="GridCell.Tab.1.center" timestamp="1592722884814">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1592722884814" />
+    <state width="1299" height="213" key="GridCell.Tab.1.left" timestamp="1592722884814">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1592722884814" />
+    <state width="1299" height="213" key="GridCell.Tab.1.right" timestamp="1592722884815">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="213" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1592722884815" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1591444460417">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1591444460417" />
+    <state x="259" y="108" width="904" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591533831634">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="259" y="108" width="904" height="576" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1299.741@67.27.1299.741" timestamp="1591533831634" />
+    <state x="406" y="136" width="620" height="522" key="find.popup" timestamp="1592724479670">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="406" y="136" width="620" height="522" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1592724479670" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1592718239678">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1592718239678" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ballot/views.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ballot/views.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ballot/views.py</url>
+          <line>255</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ballot/views.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ballot/views.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/user_registration/views.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/user_registration/views.py</url>
+          <line>122</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
